@@ -1,6 +1,8 @@
 # LocaliseMoi
 Exercice "LocaliseMoi" de la semaine 10 du MOOC "Programmation iPhone et iPad". Réalisation : 11 juillet 2014
 
+![Screenshot de LocaliseMoi](http://www.tibimac.com/uploads_forums/github/localise-moi.PNG "LocaliseMoi")
+
 - ARC désactivé.
 - Structure MVC.
 - Pas de storyboard.
